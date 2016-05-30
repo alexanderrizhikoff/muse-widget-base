@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HTMLWidget
+	name="Base Widget"
+	formatNumber="3"
+	localization="none"
+	creator="Alexander Rizhikoff"
+	defaultWidth="50"
+	defaultHeight="50"
+	isResizable="true">
+
+	<!-- Content Goes Here -->
+
+</HTMLWidget>
